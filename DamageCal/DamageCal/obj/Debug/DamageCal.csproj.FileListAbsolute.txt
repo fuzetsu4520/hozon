@@ -1,0 +1,10 @@
+C:\WorkSpace\VC\DamageCal\DamageCal\bin\Debug\DamageCal.exe.config
+C:\WorkSpace\VC\DamageCal\DamageCal\bin\Debug\DamageCal.exe
+C:\WorkSpace\VC\DamageCal\DamageCal\bin\Debug\DamageCal.pdb
+C:\WorkSpace\VC\DamageCal\DamageCal\obj\Debug\DamageCal.csprojAssemblyReference.cache
+C:\WorkSpace\VC\DamageCal\DamageCal\obj\Debug\DamageCal.Form1.resources
+C:\WorkSpace\VC\DamageCal\DamageCal\obj\Debug\DamageCal.Properties.Resources.resources
+C:\WorkSpace\VC\DamageCal\DamageCal\obj\Debug\DamageCal.csproj.GenerateResource.cache
+C:\WorkSpace\VC\DamageCal\DamageCal\obj\Debug\DamageCal.csproj.CoreCompileInputs.cache
+C:\WorkSpace\VC\DamageCal\DamageCal\obj\Debug\DamageCal.exe
+C:\WorkSpace\VC\DamageCal\DamageCal\obj\Debug\DamageCal.pdb
